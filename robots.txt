@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.sandeshbhattarai.info.np/sitemap.xml
